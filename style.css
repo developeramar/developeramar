@@ -1,0 +1,356 @@
+.div-one{
+
+    background-color: rgb(45, 203, 203);
+    text-align: center;
+    text-align: justify;
+    margin-left: 20px;
+    margin-right: 12px;
+    border-radius: 10px;
+    width: 250px;
+    height: 250px;
+    margin-top: 30px;
+    float: left;
+   
+    
+    }
+
+    .div-one:hover{
+
+
+        background-color: burlywood;
+        width: 200px;
+        height: 200px;
+        border: 20px dotted white;
+
+    }
+    
+    
+    .div-two{
+    
+    background-color: rgba(200, 187, 41, 0.845);
+    text-align: center;
+    text-align: justify;
+    margin-left: 20px;
+    margin-right: 12px;
+    border-radius: 10px;
+    width: 250px;
+    height: 250px;
+    margin-top: 30px;
+    float: left;
+    
+    }
+
+    .div-two:hover{
+
+
+        background-color: coral;
+        width: 200px;
+        height: 200px;
+        border: 20px dotted white;
+
+    }
+
+    .div-three{
+
+        background-color: rgb(50, 203, 45);
+        text-align: center;
+        text-align: justify;
+        margin-left: 20px;
+        margin-right: 12px;
+        border-radius: 10px;
+        width: 250px;
+        height: 250px;
+        margin-top: 30px;
+        float: left;
+        
+        }
+        
+    
+    .div-three:hover{
+background-color: red;
+
+width: 200px;
+height: 200px;
+border: 20px dotted white;
+    }
+
+
+    .div-four{
+    
+        background-color: rgb(203, 45, 203);
+        text-align: center;
+        text-align: justify;
+        margin-left: 20px;
+        margin-right: 12px;
+        border-radius: 10px;
+        width: 250px;
+        height: 250px;
+        margin-top: 30px;
+        float: left;
+        
+        }
+
+        .div-four:hover{
+            background-color: rgb(255, 174, 0);
+            
+            width: 200px;
+            height: 200px;
+            border: 20px dotted white;
+                }
+            
+
+        .div-five{
+
+            background-color: rgb(63, 17, 109);
+            text-align: center;
+            text-align: justify;
+            margin-left: 20px;
+            margin-right: 12px;
+            border-radius: 10px;
+            width: 250px;
+            height: 250px;
+            margin-top: 30px;
+            float: left;
+            
+            }
+    .div-five:hover{
+        background-color: rgb(255, 0, 64);
+        height: 200px;
+        width: 200px;
+        border: 20px dotted white;
+    }
+    
+    .div-main{
+    
+    width: 100%;
+    
+    }
+    
+    #anchor-one{
+        border: solid rgb(255, 251, 0);
+        background-color: rgba(229, 254, 8, 0.568);
+        border-radius: 15px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+     letter-spacing: 2px;
+
+        padding: 6px;
+   
+    
+    
+    }
+    #anchor-one:hover{
+
+        border-color: brown;
+        color: rgb(255, 85, 0);
+        background-color: beige;
+font-size: 20px;
+
+    }
+
+
+    #anchor-two{
+        border: solid rgb(0, 17, 255);
+        background-color: rgb(9, 227, 1);
+        border-radius: 5px;
+        padding: 5px;
+        
+        color: rgb(38, 0, 255);
+   
+    
+    }
+
+    #anchor-two:hover{
+        border-color: red;
+        background-color: rgb(21, 26, 45);
+        color: red;
+        font-size: 20px;
+    }
+    
+
+    #anchor-three{
+        border: solid red;
+        background-color: rgb(255, 255, 255);
+        border-radius: 5px;
+        
+        padding: 5px;
+   
+    
+    }
+    
+
+    #anchor-three:hover{
+        border-color: rgb(255, 255, 255);
+        background-color: rgb(146, 17, 45);
+        color: red;
+        font-size: 20px;
+    }
+
+    #anchor-four{
+        border: solid rgb(0, 213, 255);
+        background-color: rgb(12, 0, 242);
+        border-radius: 5px;
+        color: white;
+        padding: 5px;
+    
+    
+    }
+
+
+    #anchor-four:hover{
+        border-color: rgb(255, 0, 200);
+        background-color: rgb(0, 0, 0);
+        color: rgb(255, 255, 255);
+        font-size: 20px;
+    }
+
+    #anchor-five{
+        border: solid rgb(0, 213, 255);
+        background-color: rgb(94, 17, 90);
+        border-radius: 5px;
+        color: white;
+        padding: 5px;
+   
+    
+    }
+    #anchor-five:hover{
+        border-color: rgb(255, 255, 255);
+        background-color: rgb(219, 0, 0);
+        color: rgb(255, 255, 255);
+        font-size: 20px;
+    
+    }
+    
+    #img-one{
+    padding-top: 40px;
+    height: 70px;
+    width: 70px;
+    margin-bottom: 8px;
+    
+    
+    }
+    
+    .div-head{
+    
+    letter-spacing: 5px;
+    color: rgb(255, 255, 255);
+    background-color: red;
+    
+    }
+    
+    .headjob-2{
+    
+        width: fit-content;
+    padding: 5px;
+    border: 10px;
+    border-radius: 5px;
+    border-color: blue;
+    background-color: rgba(200, 187, 41, 0.845);
+    color: white;
+    
+    }
+
+.headjob-2:hover{
+
+    background-color: blue;
+    width: 350px;
+    padding: 20px;
+    border: 10px dotted white;
+
+}
+
+    .headjob-3{
+    
+        width: fit-content;
+    padding: 5px;
+    border: 10px;
+    border-radius: 5px;
+    
+    background-color: rgb(50, 203, 45);
+    color: white;
+    
+    }
+    .headjob-3:hover{
+
+        background-color: rgb(149, 3, 194);
+        width: 350px;
+        padding: 20px;
+        border: 10px dotted white;
+    
+    }
+
+    
+    
+    .headjob-4{
+    
+        width: fit-content;
+    padding: 5px;
+    border: 10px;
+    border-radius: 5px;
+    
+    background-color: rgb(203, 45, 203);
+    color: white;
+    
+    }
+    .headjob-4:hover{
+
+        background-color: rgba(190, 46, 94, 0.777);
+        width: 350px;
+        padding: 20px;
+        border-bottom: 10px dotted white;
+    
+    }
+
+
+    .headjob-5{
+    background-color:rgb(63, 17, 109) ;    
+        width: fit-content;
+    padding: 5px;
+    border: 10px;
+    border-radius: 5px;
+    
+    background-color: rgb(203, 45, 203);
+    color: white;
+}
+
+.headjob-5:hover{
+
+    background-color: rgb(63, 17, 109);
+    width: 350px;
+    padding: 20px;
+    border-bottom: 10px dotted white;
+}
+
+    .headjob{
+    
+    width: fit-content;
+    padding: 5px;
+    border: 10px;
+    border-radius: 5px;
+    border-color: blue;
+    background-color: darkcyan;
+    color: rgb(254, 254, 254);
+
+    
+    }
+
+    .headjob:hover{
+
+        background-color: rgb(52, 19, 19);
+        border-bottom: 10px dotted white;
+width: 350px;
+padding: 20px;
+
+    }
+    
+    .header-one{
+
+        background-color: rgb(12, 144, 144);
+        color: white;
+        border: solid red;
+        border-radius: 10px;
+
+    }
+
+
+
+   
